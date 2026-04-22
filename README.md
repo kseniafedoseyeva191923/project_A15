@@ -10,7 +10,7 @@
 - Определение потенциальных коллекторов
 
 ## Данные
-Скважины A15, A16, A10 из месторождения (Kaggle)
+Скважины A15, A16, A10 из месторождения [Kaggle](https://www.kaggle.com/datasets/sahasourav17/well-logs)
 
 ## Технологии
 Python, Lasio, Pandas, Matplotlib, Seaborn
